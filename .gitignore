@@ -1,3 +1,10 @@
 backend/node_modules/
-uploads/
+
+
+#exclui tudo 
+uploads/*
+#mas não a pasta
+!uploads/.gitkeep 
+
+
 **/node_modules
