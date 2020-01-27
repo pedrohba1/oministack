@@ -27,7 +27,7 @@ export default function Login({ history }) {
     //o fragment evita que o css fique todo cagado
     <>
       <p>
-        Ofereça <strong>spots</strong>para programadores e encontre{" "}
+        Ofereça <strong>spots</strong> para programadores e encontre{" "}
         <strong>talentos</strong> para a sua empresa
       </p>
       <form onSubmit={handleSubmit}>
